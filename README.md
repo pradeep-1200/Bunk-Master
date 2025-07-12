@@ -35,7 +35,7 @@ git clone https://github.com/pradeep-1200/Bunk-Master.git
 cd Bunk-Master
 flutter pub get
 flutter run
-
+```
 ---
 
 ## 👨‍💻 Developer
